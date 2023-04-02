@@ -8,7 +8,7 @@ Desarrollador con más de 10 años de experiencia generando aplicaciones web, si
 Mi curiosidad tecnológica y mi actitud positiva me impulsaron a iniciar una carrera en la tecnología, como desarrollador, aspiro a crear productos tecnológicos innovadores que faciliten la vida de las personas.
 
 - 🖥️  Mira mi portafolio [Sitio web](https://andabral.netlify.app/)
-- ✉️  Puedes contactarme por mi correo [jesusterancervantes@gmail.com](mailto:andabral@gmail.com)
+- ✉️  Puedes contactarme por mi correo [andabral@gmail.com](mailto:andabral@gmail.com)
 - 🧠  Estoy aprendiendo Reactjs
 - 🤝  Estooy abierto a colabaciones de mitad de tiempo
 - ⚡  Programador web con más de 10 años de experiencia en el desarrollo de aplicaciones y sitios web con HTML, CSS y JavaScript.
