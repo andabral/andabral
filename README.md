@@ -4,7 +4,7 @@
 
 ## Hola 👋🏻, bienvenido a mi perfil
 
-Desarrollador con más de 10 años de experiencia generando aplicaciones web, sitios web, aplicaciones móviles, habilidades en MySQL, SQL, MongoDB, Firebase, HTML5, CSS, Sass, AJAX, jQuery, Git, Java, Javascript, React, Redux, Node.js, Vue.js, Vuex, Express, entre otros.
+Desarrollador con más de 10 años de experiencia generando aplicaciones web, sitios web, aplicaciones móviles, habilidades en MySQL, SQL, MongoDB, Firebase, HTML5, CSS, Sass, AJAX, jQuery, Git, Java, Javascript, React, Node.js, Vue.js, Vuex, Express, entre otros.
 Mi curiosidad tecnológica y mi actitud positiva me impulsaron a iniciar una carrera en la tecnología, como desarrollador, aspiro a crear productos tecnológicos innovadores que faciliten la vida de las personas.
 
 - 🖥️  Mira mi portafolio [Sitio web](https://andabral.netlify.app/)
